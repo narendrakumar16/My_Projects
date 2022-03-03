@@ -47,7 +47,7 @@ public class AirthmeticCalculations {
 					res=a%b;
 					System.out.println("Divison of two numbers "+a+" and "+b+" is "+res);
 					break;
-			default:System.out.println("Wrong choice");
+			default:System.err.println("Wrong choice");
 			break;
 			
 	
